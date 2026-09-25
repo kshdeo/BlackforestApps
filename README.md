@@ -25,7 +25,7 @@ A personal information management app for organizing life's important details se
 
 ## Support
 
-For questions or support, contact: keendeo@gmail.com
+For questions or support, contact: blackforestapps@gmail.com
 
 ---
 
